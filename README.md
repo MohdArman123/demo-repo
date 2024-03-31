@@ -1,2 +1,2 @@
 # demo-repo
-learn git command
+learn git command to enhance my learning
